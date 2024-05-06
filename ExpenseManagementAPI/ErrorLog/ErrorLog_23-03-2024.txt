@@ -1,0 +1,100 @@
+------------------------------------------23-Mar-24 10:55:44 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:01:54 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:06:08 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:07:39 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:08:54 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:09:57 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:16:38 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:17:42 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:18:27 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:19:09 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:19:21 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:22:37 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:26:16 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:27:23 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:27:35 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:29:32 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:33:23 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:42:42 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:43:10 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:43:29 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:44:43 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:48:27 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:49:41 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:57:59 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 11:59:58 AM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:01:42 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:01:56 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:03:45 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:06:46 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:07:28 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:08:04 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:08:21 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:08:38 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:08:51 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:09:55 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:10:01 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:10:19 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:13:07 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:13:16 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:13:34 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:18:07 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:20:44 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:27:33 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:27:50 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:28:13 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:28:29 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 12:51:38 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 1:29:33 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------23-Mar-24 1:29:34 PM------------------------------------------
+UserRegistrationBL=>ExceptionColumn 'Code' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.GetExpenseBL.GetExpense(GetExpenseEntity objEntity)

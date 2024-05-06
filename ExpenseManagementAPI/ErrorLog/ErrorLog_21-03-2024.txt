@@ -1,0 +1,211 @@
+------------------------------------------21-Mar-24 12:02:16 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 12:02:23 PM------------------------------------------
+UserRegistrationBL=>ExceptionParameter count does not match Parameter Value count.   at LIBRARY.SqlHelper.AssignParameterValues(SqlParameter[] commandParameters, Object[] parameterValues) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\Library\SqlHelper.cs:line 103
+   at LIBRARY.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\Library\SqlHelper.cs:line 520
+   at BL.UserRegistrationBL.UserRegistrationInfo(UserEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\UserRegistrationBL.cs:line 31
+------------------------------------------21-Mar-24 12:05:39 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 12:15:49 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 12:21:23 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 12:26:24 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 1:20:15 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 1:22:07 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 1:23:27 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 1:25:30 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 1:29:15 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 1:30:01 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 2:46:18 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 2:56:20 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 2:58:39 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 3:07:38 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 3:10:21 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 3:11:19 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 3:13:14 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 3:13:39 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 3:55:56 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 3:59:49 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 4:05:56 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 4:06:22 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 4:07:22 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 4:08:07 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 4:08:27 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 4:08:56 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 4:09:19 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 4:10:50 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 4:11:03 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 4:33:32 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 4:33:47 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 4:34:13 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 4:34:29 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 4:34:54 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 4:35:22 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 4:35:34 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 4:36:59 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:00:04 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:01:11 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:01:31 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:02:00 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:41:38 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:41:59 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:42:11 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:42:38 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:42:53 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:43:19 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:43:50 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:44:21 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:44:35 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:44:46 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:45:02 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:45:23 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:45:26 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:45:39 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:49:20 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:49:20 PM------------------------------------------
+UserRegistrationBL=>ExceptionObject reference not set to an instance of an object.   at BL.GetExpenseBL.GetExpense(GetExpenseEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\GetExpenseBL.cs:line 23
+------------------------------------------21-Mar-24 5:51:50 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:51:50 PM------------------------------------------
+UserRegistrationBL=>ExceptionObject reference not set to an instance of an object.   at BL.GetExpenseBL.GetExpense(GetExpenseEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\GetExpenseBL.cs:line 23
+------------------------------------------21-Mar-24 5:52:05 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:52:05 PM------------------------------------------
+UserRegistrationBL=>ExceptionObject reference not set to an instance of an object.   at BL.GetExpenseBL.GetExpense(GetExpenseEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\GetExpenseBL.cs:line 23
+------------------------------------------21-Mar-24 5:52:59 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:52:59 PM------------------------------------------
+UserRegistrationBL=>ExceptionObject reference not set to an instance of an object.   at BL.GetExpenseBL.GetExpense(GetExpenseEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\GetExpenseBL.cs:line 23
+------------------------------------------21-Mar-24 5:53:03 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:53:03 PM------------------------------------------
+UserRegistrationBL=>ExceptionObject reference not set to an instance of an object.   at BL.GetExpenseBL.GetExpense(GetExpenseEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\GetExpenseBL.cs:line 23
+------------------------------------------21-Mar-24 5:53:05 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:53:05 PM------------------------------------------
+UserRegistrationBL=>ExceptionObject reference not set to an instance of an object.   at BL.GetExpenseBL.GetExpense(GetExpenseEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\GetExpenseBL.cs:line 23
+------------------------------------------21-Mar-24 5:57:08 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 5:57:11 PM------------------------------------------
+UserRegistrationBL=>ExceptionMaximum stored procedure, function, trigger, or view nesting level exceeded (limit 32).   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at System.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at System.Data.SqlClient.SqlDataReader.TryNextResult(Boolean& more)
+   at System.Data.SqlClient.SqlDataReader.NextResult()
+   at System.Data.ProviderBase.DataReaderContainer.NextResult()
+   at System.Data.Common.DataAdapter.FillNextResult(DataReaderContainer dataReader)
+   at System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   at System.Data.Common.DataAdapter.Fill(DataSet dataSet, String srcTable, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at LIBRARY.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\Library\SqlHelper.cs:line 577
+   at LIBRARY.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\Library\SqlHelper.cs:line 489
+   at LIBRARY.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\Library\SqlHelper.cs:line 523
+   at BL.GetExpenseBL.GetExpense() in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\GetExpenseBL.cs:line 28
+------------------------------------------21-Mar-24 6:01:41 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 6:17:55 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 6:18:32 PM------------------------------------------
+UserRegistrationBL=>ExceptionObject reference not set to an instance of an object.   at BL.GetExpenseBL.GetExpense(GetExpenseEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\GetExpenseBL.cs:line 23
+------------------------------------------21-Mar-24 6:19:04 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 6:19:11 PM------------------------------------------
+UserRegistrationBL=>ExceptionColumn 'Code' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.GetExpenseBL.GetExpense(GetExpenseEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\GetExpenseBL.cs:line 31
+------------------------------------------21-Mar-24 6:37:35 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 6:37:36 PM------------------------------------------
+UserRegistrationBL=>ExceptionColumn 'Code' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.GetExpenseBL.GetExpense(GetExpenseEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\GetExpenseBL.cs:line 31
+------------------------------------------21-Mar-24 6:38:11 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 6:38:11 PM------------------------------------------
+UserRegistrationBL=>ExceptionColumn 'Code' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.GetExpenseBL.GetExpense(GetExpenseEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\GetExpenseBL.cs:line 31
+------------------------------------------21-Mar-24 6:38:30 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 6:38:31 PM------------------------------------------
+UserRegistrationBL=>ExceptionColumn 'Code' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.GetExpenseBL.GetExpense(GetExpenseEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\GetExpenseBL.cs:line 31
+------------------------------------------21-Mar-24 6:44:39 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 6:44:40 PM------------------------------------------
+UserRegistrationBL=>ExceptionColumn 'Code' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.GetExpenseBL.GetExpense(GetExpenseEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\GetExpenseBL.cs:line 31
+------------------------------------------21-Mar-24 6:45:15 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 6:45:15 PM------------------------------------------
+UserRegistrationBL=>ExceptionColumn 'Code' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.GetExpenseBL.GetExpense(GetExpenseEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\GetExpenseBL.cs:line 31
+------------------------------------------21-Mar-24 6:45:30 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------21-Mar-24 6:45:30 PM------------------------------------------
+UserRegistrationBL=>ExceptionColumn 'Code' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.GetExpenseBL.GetExpense(GetExpenseEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\GetExpenseBL.cs:line 31
+------------------------------------------21-Mar-24 6:45:54 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started

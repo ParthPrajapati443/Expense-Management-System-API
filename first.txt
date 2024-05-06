@@ -1,0 +1,32 @@
+{
+    "Flag":"INSERT",
+    "UserName": "User3",
+    "UserEmail": "user3@gmail.com",
+    "UserPhone": "3214567890",
+    "UserAddress": "vastral"
+}
+
+{
+    "ExpenseEmail":"user@gmail.com",
+    "ExpenseType":"credit",
+    "ExpenseAmount":"1000",
+    "ExpenseReason":"Salary",
+    "ExpenseDate":"21/03/2024"
+}
+
+{
+    "EmailId": "user3@gmail.com",
+    "Password": "333333",
+    "Role":"User"
+}
+{
+    "EmailId": "admin@gmail.com",
+    "Password": "123456",
+    "Role":"Admin"
+}
+const url = `http://localhost:49968/api/UserRegistration/Login`;
+      this.http.post(url,this.SignUpForm.value).subscribe(
+                              (data: any)=>console.log(data),
+    
+    ()=>console.log("complete")
+  )

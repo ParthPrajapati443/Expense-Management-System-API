@@ -1,0 +1,34 @@
+------------------------------------------22-Mar-24 3:38:27 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------22-Mar-24 3:40:55 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------22-Mar-24 3:40:56 PM------------------------------------------
+UserRegistrationBL=>ExceptionColumn 'Code' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.UserRegistrationBL.UserRegistrationInfo(UserEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\UserRegistrationBL.cs:line 36
+------------------------------------------22-Mar-24 3:43:01 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------22-Mar-24 3:43:02 PM------------------------------------------
+UserRegistrationBL=>ExceptionColumn 'Code' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.UserRegistrationBL.UserRegistrationInfo(UserEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\UserRegistrationBL.cs:line 36
+------------------------------------------22-Mar-24 3:52:27 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------22-Mar-24 3:53:21 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------22-Mar-24 4:01:35 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------22-Mar-24 4:01:58 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------22-Mar-24 4:04:36 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------22-Mar-24 4:04:47 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------22-Mar-24 4:18:20 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------22-Mar-24 4:22:28 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------22-Mar-24 4:22:35 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------22-Mar-24 4:25:31 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started

@@ -1,0 +1,12 @@
+------------------------------------------24-Mar-24 3:53:29 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------24-Mar-24 3:53:32 PM------------------------------------------
+UserRegistrationBL=>ExceptionColumn 'Code' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.MonthlyExpenseBL.MonthlyExpense(GetExpenseEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\MonthlyExpenseBL.cs:line 35
+------------------------------------------24-Mar-24 3:57:19 PM------------------------------------------
+UserRegistrationBL=>UserRegistrationInfo=>Started
+------------------------------------------24-Mar-24 3:57:20 PM------------------------------------------
+UserRegistrationBL=>ExceptionColumn 'Code' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.MonthlyExpenseBL.MonthlyExpense(GetExpenseEntity objEntity) in G:\Parth Prajapati\Week Tasks\Week8Task\ExpenseManagementAPI\BL\MonthlyExpenseBL.cs:line 35
